@@ -78,9 +78,9 @@ python -m venv project-env
 
 ### 4️⃣ Activate the virtual environment
 Activate the environment before installing dependencies:
-```bash
 
 For Windows:
+```bash
 
 project-env\Scripts\activate
 
