@@ -130,8 +130,7 @@ CTRL + C
 ## 🚀 Live Demo  
 
 You can access the deployed Streamlit app here:  
-👉 [**Load Prediction App**](https://your-streamlit-link.streamlit.app)  
+👉 [**Load Prediction App**](https://load-prediction-ml-hemangi-loadpred-3eprmxse2.streamlit.app/)  
 
-*(Replace the above link with your actual Streamlit Cloud URL)*  
 
 ---
