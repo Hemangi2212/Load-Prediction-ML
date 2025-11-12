@@ -58,15 +58,11 @@ This project demonstrates practical implementation of **ML model deployment** us
 git clone https://github.com/your-username/loan-approval-app.git
 cd loan-approval-app
 
-3️⃣ Install all dependencies
 ```
-pip install -r requirements.txt
 
-4️⃣ Run the Streamlit app
-streamlit run app.py
+### 2️⃣ Navigate to the project directory
 
+Move into your project folder:
 
-🖥️ The app will open automatically in your browser at
-👉 http://localhost:8501
-
+cd Load-Prediction
 
