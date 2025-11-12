@@ -91,3 +91,33 @@ For macOS/Linux:
 source project-env/bin/activate
 
 ```
+
+### 5️⃣ Install all dependencies
+
+Install the required packages from the requirements.txt file:
+```bash 
+pip install -r requirements.txt
+
+```
+
+### 6️⃣ Run the Streamlit app
+
+Launch the application using Streamlit:
+```bash
+streamlit run app.py
+
+```
+
+### 7️⃣ Open the app in your browser
+
+Once the server starts, the app will automatically open in your default web browser.
+If not, manually open this link:
+👉 http://localhost:8501
+
+### 8️⃣ Stop the server
+
+When you’re done, stop the app with:
+```bash
+CTRL + C
+
+```bash
