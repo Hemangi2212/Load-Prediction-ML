@@ -68,3 +68,10 @@ cd Load-Prediction
 
 ```
 
+### 3️⃣ Create a virtual environment
+```bash
+Set up a virtual environment to manage dependencies:
+
+python -m venv project-env
+
+```
