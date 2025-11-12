@@ -124,3 +124,14 @@ When you’re done, stop the app with:
 CTRL + C
 
 ```
+
+---
+
+## 🚀 Live Demo  
+
+You can access the deployed Streamlit app here:  
+👉 [**Load Prediction App**](https://your-streamlit-link.streamlit.app)  
+
+*(Replace the above link with your actual Streamlit Cloud URL)*  
+
+---
