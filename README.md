@@ -35,6 +35,8 @@ This project demonstrates practical implementation of **ML model deployment** us
 
 ---
 
+---
+
 ## 📁 Project Structure  
 
 📦 Load Prediction
@@ -42,4 +44,5 @@ This project demonstrates practical implementation of **ML model deployment** us
 ├── loan_approval_model.pkl # Trained ML model
 ├── requirements.txt # Required dependencies
 └── README.md # Project documentation
+---
 
