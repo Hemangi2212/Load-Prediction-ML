@@ -85,3 +85,9 @@ For Windows:
 project-env\Scripts\activate
 
 ``` 
+
+For macOS/Linux:
+```bash 
+source project-env/bin/activate
+
+```
