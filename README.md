@@ -61,8 +61,10 @@ cd loan-approval-app
 ```
 
 ### 2️⃣ Navigate to the project directory
-
+```bash
 Move into your project folder:
 
 cd Load-Prediction
+
+```
 
