@@ -61,16 +61,16 @@ cd loan-approval-app
 ```
 
 ### 2️⃣ Navigate to the project directory
-```bash
 Move into your project folder:
+```bash
 
 cd Load-Prediction
 
 ```
 
 ### 3️⃣ Create a virtual environment
-```bash
 Set up a virtual environment to manage dependencies:
+```bash
 
 python -m venv project-env
 
