@@ -35,19 +35,21 @@ This project demonstrates practical implementation of **ML model deployment** us
 
 ---
 
----
+### 📁 Project Structure
 
-📦 Project Structure
-│
-├── app.py                  # Streamlit main app
+📦 Load Prediction
+├── app.py # Streamlit main app
 ├── loan_approval_model.pkl # Trained ML model
-├── requirements.txt        # Required dependencies
-├── README.md               # Project documentation
-├── train_pkl.py            # Script for training model and saving pickle
-├── test_load_data.py       # Testing or validation script
-├── applicant_info.json     # Applicant input details
-├── financial_info.json     # Financial data used in prediction
-└── loan_info.json          # Loan-related parameters
+├── requirements.txt # Required dependencies
+├── README.md # Project documentation
+├── train_pkl.py # Script for training model and saving pickle
+├── test_load_data.py # Testing or validation script
+├── applicant_info.json # Applicant input details
+├── financial_info.json # Financial data used in prediction
+└── loan_info.json # Loan-related parameters
+
+
+
 
 
 
