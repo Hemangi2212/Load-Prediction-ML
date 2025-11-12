@@ -111,7 +111,9 @@ streamlit run app.py
 ### 7️⃣ Open the app in your browser
 
 Once the server starts, the app will automatically open in your default web browser.
+
 If not, manually open this link:
+
 👉 http://localhost:8501
 
 ### 8️⃣ Stop the server
