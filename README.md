@@ -36,6 +36,7 @@ This project demonstrates practical implementation of **ML model deployment** us
 ---
 
 📦 Load Prediction
+```bash 
 │
 ├── app.py                     # Streamlit main app
 ├── loan_approval_model.pkl    # Trained ML model
@@ -47,7 +48,7 @@ This project demonstrates practical implementation of **ML model deployment** us
 ├── financial_info.json        # Financial data used in prediction
 └── loan_info.json             # Loan-related parameters
 
-
+```
 
 ---
 
