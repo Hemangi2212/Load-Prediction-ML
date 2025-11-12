@@ -75,3 +75,13 @@ Set up a virtual environment to manage dependencies:
 python -m venv project-env
 
 ```
+
+### 4️⃣ Activate the virtual environment
+Activate the environment before installing dependencies:
+```bash
+
+For Windows:
+
+project-env\Scripts\activate
+
+``` 
