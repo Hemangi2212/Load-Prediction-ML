@@ -49,5 +49,14 @@ This project demonstrates practical implementation of **ML model deployment** us
 
 
 
+---
+
+## ⚙️ Installation & Setup  
+
+### 1️⃣ Clone this repository  
+```bash
+git clone https://github.com/your-username/loan-approval-app.git
+cd loan-approval-app
+
 
 
