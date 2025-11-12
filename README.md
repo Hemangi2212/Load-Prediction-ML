@@ -122,4 +122,4 @@ When you’re done, stop the app with:
 ```bash
 CTRL + C
 
-```bash
+```
