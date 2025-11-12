@@ -59,7 +59,7 @@ git clone https://github.com/your-username/loan-approval-app.git
 cd loan-approval-app
 
 3️⃣ Install all dependencies
-```bash
+```
 pip install -r requirements.txt
 
 4️⃣ Run the Streamlit app
